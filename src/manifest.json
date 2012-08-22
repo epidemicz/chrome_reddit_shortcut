@@ -1,0 +1,12 @@
+{
+  "name": "reddit",
+  "description": "Opens reddit",
+  "manifest_version": 2,
+  "version": "0.1",
+  "app": {
+    "launch": {
+      "web_url": "http://www.reddit.com/"
+    }
+  },
+  "icons": { "128": "Reddit_128.png" }
+}
